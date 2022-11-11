@@ -1,1 +1,6 @@
 https://github.com/doccano/doccano
+https://github.com/juand-r/entity-recognition-datasets
+
+
+https://medium.com/globant/building-an-address-parser-with-spacy-e3376b7cff
+https://blog.devgenius.io/named-entity-recognition-ner-nlp-python-6504d5843f98
